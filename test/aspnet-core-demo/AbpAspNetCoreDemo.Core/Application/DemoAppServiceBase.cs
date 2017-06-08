@@ -9,4 +9,4 @@ namespace AbpAspNetCoreDemo.Core.Application
             LocalizationSourceName = "AbpAspNetCoreDemoModule";
         }
     }
-}     
+}
